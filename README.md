@@ -1,2 +1,5 @@
-# Paradise
-A static website for booking venue, restaurant and order food online.  
+# explore-hisar
+Demo project for restaurant, venue and hotel booking
+
+<br>
+For more information visit: https://ankushjamdagani.github.io/E-commerce-Food-Ordering-Website/
